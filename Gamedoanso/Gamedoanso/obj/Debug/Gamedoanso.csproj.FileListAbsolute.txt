@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Gamedoanso\Gamedoanso\bin\Debug\Gamedoanso.exe.config
+C:\Users\Administrator\source\repos\Gamedoanso\Gamedoanso\bin\Debug\Gamedoanso.exe
+C:\Users\Administrator\source\repos\Gamedoanso\Gamedoanso\bin\Debug\Gamedoanso.pdb
+C:\Users\Administrator\source\repos\Gamedoanso\Gamedoanso\obj\Debug\Gamedoanso.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Gamedoanso\Gamedoanso\obj\Debug\Gamedoanso.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Gamedoanso\Gamedoanso\obj\Debug\Gamedoanso.exe
+C:\Users\Administrator\source\repos\Gamedoanso\Gamedoanso\obj\Debug\Gamedoanso.pdb
