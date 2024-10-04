@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Session2
+namespace Exercise4
 {
-    internal class Bai_tap_buoi_4
+    internal class Bai_tap_
     {
         private static void Main5(string[] args)
         {
