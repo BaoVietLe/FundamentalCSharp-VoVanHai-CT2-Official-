@@ -5,9 +5,9 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Session2
+namespace Exercise3
 {
-    internal class Bai_tap_buoi_3
+    internal class Exercise03
     {
         private static void Main2(string[] args)
         {
