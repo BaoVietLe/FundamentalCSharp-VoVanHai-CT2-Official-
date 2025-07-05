@@ -1,4 +1,5 @@
 Fundamental C# – Bài Tập và Đồ Án Cuối Kỳ
+
 Repository này chứa toàn bộ các bài tập môn Cơ sở lập trình thuộc lớp HKC2024-CT2 giảng dạy bởi Thầy Võ Văn Hải, cùng với đồ án cuối kỳ là một trò chơi đơn giản mang tên 
 Game Đào Vàng được phát triển bằng Console Application.
 
